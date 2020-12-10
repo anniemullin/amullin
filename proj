@@ -27,6 +27,9 @@ description: I am a 21 year old majoring in Public Health and International Affa
 
 # List of links in the navigation bar
 navbar-links:
+  About me
+  Bioinformatics
+  Fun Facts
   Home: ""
   Resources:
     - Getting started: "getstarted"
